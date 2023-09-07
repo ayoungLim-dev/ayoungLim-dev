@@ -1,5 +1,5 @@
 <div align=left>
-  <br><br><br>
+  <br>
   <h3>🌟 Do </h3>
   <h6> 2023.03~ SWUWEB 소학회 활동 </h6>
   <br><br><br>
