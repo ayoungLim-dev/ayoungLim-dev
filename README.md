@@ -1,10 +1,13 @@
-# Im Ayoung
+<div align=left>
+  <h3>🌟 Do </h3>
+  <h6> 2023.03~ SWUWEB 소학회 활동 </h6>
 
-
+</div>
 
 <div align=left>
   <h3>📌 Skills</h3>
 </div>
+
 
 <div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -33,7 +36,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=transparent&show_icons=true)
+![ayoungLim-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoungLim-dev&theme=transparent&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
