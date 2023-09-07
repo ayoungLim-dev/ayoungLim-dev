@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 
-[![Ayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoungLim-dev&show_icons=true&theme=radical)](https://github.com/ayoungLim-dev/github-readme-stats)
+![Ayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoungLim-dev&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
