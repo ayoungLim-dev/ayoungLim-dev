@@ -1,7 +1,8 @@
 <div align=left>
+  <br><br><br>
   <h3>🌟 Do </h3>
   <h6> 2023.03~ SWUWEB 소학회 활동 </h6>
-
+  <br><br><br>
 </div>
 
 <div align=left>
@@ -31,7 +32,7 @@
   
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <br><br><br><br>
+  <br><br><br>
 </div>
 
 
@@ -42,14 +43,10 @@
 
 
 <div align=left>
-
   <h3>📞 Contact</h3>
-    
  <a href="https://www.notion.so/Im-AYoung-edda360197e44f3297b04f9b7982678f?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
   <a href="[https://www.notion.so/Im-AYoung-edda360197e44f3297b04f9b7982678f?pvs=4](https://github.com/ayoungLim-dev)" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <img src="https://img.shields.io/badge/ayounglim.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-
-  <br><br><br><br>
 </div>
 
 
